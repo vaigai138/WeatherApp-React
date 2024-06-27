@@ -11,7 +11,7 @@ body{
     display: flex;
     width: 100vw;
     height: 100vh;
-    background-image: url("weatherbg.jpg");
+    background-image: url("public/weatherbg.jpg");
 
 }
 
