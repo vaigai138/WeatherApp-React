@@ -12,6 +12,7 @@ body{
     width: 100vw;
     height: 100vh;
     background-image: url("/weatherbg.jpg");
+    background-size: cover; 
 
 }
 
